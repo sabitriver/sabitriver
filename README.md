@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabitriver</h1>
-<h3 align="center">A passionate Front-End and Java Script Developer from Turkey</h3>
+<h3 align="center">Full Stack Web Developer from Turkey.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
